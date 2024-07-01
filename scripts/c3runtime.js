@@ -4568,6 +4568,8 @@ self.C3_ExpressionFuncs = [
 		},
 		() => 1985,
 		() => 1008,
+		() => 993,
+		() => 520,
 		() => 10,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
